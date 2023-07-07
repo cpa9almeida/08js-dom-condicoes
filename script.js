@@ -20,3 +20,7 @@ function carregar() {
 
     }
 }
+
+function verificar() {
+    
+}
